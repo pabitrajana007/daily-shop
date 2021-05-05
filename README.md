@@ -1,1 +1,1 @@
-# dail-shop
+# daily-shop
